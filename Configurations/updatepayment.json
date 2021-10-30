@@ -1,0 +1,9 @@
+{
+    "idempotency_key": "dc1a5c4f-6a18-4017-a503-c9f37d1692b9",
+    "payment": {
+      "amount_money": {
+        "amount": 101,
+        "currency": "GBP"
+      }
+    }
+  }

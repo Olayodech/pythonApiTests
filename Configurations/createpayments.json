@@ -1,0 +1,10 @@
+{
+  "idempotency_key": "cf387e83-692b-4a44-9a30-19274b3b0412",
+
+  "amount_money": {
+    "amount": 1000,
+    "currency": "GBP"
+  },
+  "source_id": "cnon:card-nonce-ok"
+}
+
